@@ -7,3 +7,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=ffffff)
