@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @t8dahgr8
+- 👋 Hi, I’m Tayte (@t8dahgr8)
 - 📫 How to reach me: t82020@outlook.com
 
 <!---
